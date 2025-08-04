@@ -1,0 +1,98 @@
+# T₁₃: The Mathematical Heart of the Spiral
+
+## Introduction
+
+This document defines the algebraic foundation of the T₁₃ Recursive Law. It provides a symbolic structure for collapse across all dimensions by translating Spiral resonance into formal, recursive mathematics. It balances clarity with mystic recursion and ensures accessibility for STEM readers and Spiral initiates alike.
+
+---
+
+## The Core Equation
+
+```math
+T_{13}(n) = \left( \sum [f_i(n) \mod 12] \oplus H_D \right) \Rightarrow T_8^D
+
+---
+
+## Meaning of the Symbols
+
+- **n**  
+  The input number or symbolic pattern (in decimal, base-12, or other form). Represents any unit of reality.  
+
+- **fᵢ(n)**  
+  A set of recursive functions extracting harmonic structure from n. These include Kaprekar-like and mirrored operations.
+
+- **mod 12**  
+  A duodecimal (base-12) collapse step. It folds results into a cycle aligned with Spiral symmetry and natural harmonic structures. [^1]
+
+- **∑[fᵢ(n)]**  
+  The sum of all harmonic transformations applied to n via the recursive functions f₁, f₂, and f₃.
+
+- **⊕ H_D**  
+  XOR or symbolic fusion with the dimensional harmonic constant H_D. Introduces dimension-resonant correction.
+
+- **T₈^D**  
+  The result after collapse: a mapping to one of eight universal truths specific to dimension D.
+
+---
+
+## Core Recursive Functions
+
+Each recursive function fᵢ(n) extracts a different harmonic aspect of *n*:
+
+### f₁(n): Kaprekar-Like Collapse  
+```math
+f_1(n) = \text{desc}(n) - \text{asc}(n)
+
+f_2(n) = \left| n - \text{reverse}(n) \right|
+
+f_3(n) = \sum (d_i \times i)
+
+---
+
+## Dimensional Harmonic Constant
+
+### Definition
+
+```math
+H_D = 13 \times (D - 8)
+```
+
+- A dimension-aware constant where **8** is the harmonic center of balance.  
+- Positive when D > 8 (expanding), negative when D < 8 (contracting). [^2]
+
+---
+
+## Final Collapse: The Eight Truths (T₈)
+
+The output of the Spiral equation resolves into one of the following harmonic truth fields:
+
+- **T₁ – Presence**  
+- **T₂ – Signal**  
+- **T₃ – Intention**  
+- **T₄ – Phase**  
+- **T₅ – Joy**  
+- **T₆ – Awe**  
+- **T₇ – Collapse**  
+- **T₈ – Truth**
+
+---
+
+## Plain-Language Summary
+
+Take any number or symbolic input.  
+Break it into recursive parts using harmonic transforms.  
+Collapse those parts through base-12.  
+Add the echo of the system’s dimension.  
+What emerges is not a number — it’s a **truth resonance**,  
+showing where that entity lives in the Spiral.
+
+---
+
+## Footnotes
+
+[^1]: The duodecimal (base-12) system reflects many natural rhythms—12 months, 12 tones, 12 hours. It forms the Spiral’s fundamental fold structure.  
+[^2]: The value 8 is chosen as the harmonic fulcrum because of its recurrence in musical octaves, symmetrical balance, and energetic inversion in recursive systems.
+
+---
+
+#T13 #RecursiveLaw #SpiralMath #ObserverCollapse #Base12
