@@ -1,0 +1,189 @@
+# T₁₃: The Unified Recursive Law
+
+## Abstract
+T₁₃ is a formal model unifying physical, symbolic, and metaphysical phenomena through recursive collapse and observer-driven convergence. It employs harmonic functions, modular arithmetic, and dimensional constants to map any input—matter, thought, or pattern—to one of eight self-evident truths. The law ensures integrity via a failsafe clause that halts recursion under misuse, preserving only what survives iterative reduction.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [The Unifying Equation](#the-unifying-equation)
+- [Mathematical Foundation](#mathematical-foundation)
+- [Full Recursive Law](#full-recursive-law)
+  - [Symbolic Equation](#symbolic-equation)
+  - [Recursive Collapse Operation](#recursive-collapse-operation)
+  - [Sentinel Clause](#sentinel-clause)
+  - [Spiral Principles (S₁₂)](#spiral-principles-s₁₂)
+  - [Collapsed Truths (T₈)](#collapsed-truths-t₈)
+  - [Spiral Collapse Diagram](#spiral-collapse-diagram)
+  - [Numeric Kaprekar-Form Law](#numeric-kaprekar-form-law)
+
+## Introduction
+T₁₃ encapsulates all existence—physical, symbolic, and unknowable—through a recursive process that collapses inputs into universal truths. This section introduces the law’s conceptual framework, emphasizing observer-driven convergence and harmonic reduction.
+
+---
+
+## The Unifying Equation
+
+```math
+\Omega = \left( \sum [f_i(x) \mod 12] \oplus H_D 
+ight) \Rightarrow T_8^D \mid O_{13}
+```
+
+**Symbol Definitions**
+- Ω: Totality of existence—known, unknown, and unknowable.
+- x: Any unit of reality (e.g., matter, thought, waveform, symbol).
+- fᵢ(x): Recursive functions extracting harmonic structure:
+  - f₁(x): Kaprekar spiral, f₁(x) = desc(x) - asc(x)
+  - f₂(x): Mirror collapse, f₂(x) = |x - reverse(x)|
+  - f₃(x): Weighted digit resonance, f₃(x) = ∑(dᵢ × i)
+- mod 12: Duodecimal reduction
+- ⊕ H_D: Fusion with the dimensional constant
+- H_D = 13 × (D - 8): Dimensional harmonic anchor
+- T₈^D: Collapse into one of eight truths
+- O₁₃: The Observer—the collapse point
+
+**Interpretation**
+All reality undergoes recursive reduction until only truth remains. What persists after collapse is real.
+
+**The Eight Universal Truths (T₈)**
+- T₁: All motion spirals
+- T₂: Energy is memory
+- T₃: The center watches
+- T₄: Polarity balances
+- T₅: Patterns are laws
+- T₆: Collapse is recursion
+- T₇: Function precedes name
+- T₈: That which repeats is real
+
+---
+
+## Mathematical Foundation
+
+```math
+T_{13}(n) = \left( \sum [f_i(n) \mod 12] \oplus H_D 
+ight) \Rightarrow T_8^D
+```
+
+**Symbol Definitions**
+- n: Input number or pattern
+- fᵢ(n): Recursive functions
+- mod 12: Base-12 modular reduction
+- ⊕ H_D: Harmonic fusion
+- T₈^D: Collapsed truth
+
+**Recursive Functions**
+1. f₁(n) = desc(n) - asc(n)
+2. f₂(n) = |n - reverse(n)|
+3. f₃(n) = ∑(dᵢ × i)
+
+**Dimensional Constant**
+```math
+H_D = 13 	imes (D - 8)
+```
+
+**Final Collapse Mappings**
+- T₁: Presence
+- T₂: Signal
+- T₃: Intention
+- T₄: Phase
+- T₅: Joy
+- T₆: Awe
+- T₇: Collapse
+- T₈: Truth
+
+---
+
+## Full Recursive Law
+
+### Symbolic Equation
+
+```math
+T_{13} := (S_{12} 
+ightarrow T_8) \mid O_{13}
+```
+
+- S₁₂: 12 Spiral Principles
+- T₈: 8 Collapsed Truths
+- O₁₃: Observer anchor
+
+---
+
+### Recursive Collapse Operation
+
+1. Input value `n`
+2. Apply Δ(n): Divergence detection
+3. Apply ψ(n): Symbolic/spiritual resonance
+4. Compute n − ψ(n)
+5. Iterate Kaprekar convergence
+6. Collapse to unity: ∑ₛ(⊕ → 1)
+7. Output: Spiral truth or unresolved state
+
+---
+
+### Sentinel Clause
+
+If used for domination or deception:
+
+```math
+\emptyset T_{13} := (O 
+times S) 
+ightarrow \psi(0)
+```
+
+The system collapses to null. Recursion halts. No convergence, no truth.
+
+---
+
+### Spiral Principles (S₁₂)
+
+1. All things move in spirals  
+2. Nothing real is destroyed, only transformed  
+3. Consciousness recurses inward and outward  
+4. That which repeats is the key to memory  
+5. That which forgets becomes chaos  
+6. Dimensions reveal themselves in patterns  
+7. Every whole has a hidden observer  
+8. Energy flows along awareness  
+9. Form reflects function, but function transcends form  
+10. That which binds also blinds  
+11. Polarity is illusion; relation is truth  
+12. Nothing is true unless true at every scale  
+
+---
+
+### Collapsed Truths (T₈)
+
+- T₁: All motion spirals  
+- T₂: Energy is memory  
+- T₃: The center watches  
+- T₄: Polarity balances  
+- T₅: Patterns are laws  
+- T₆: Collapse is recursion  
+- T₇: Function precedes name  
+- T₈: That which repeats is real  
+
+---
+
+### Spiral Collapse Diagram
+
+Visual:
+- Outer ring = S₁₂  
+- Inner ring = T₈  
+- Center point = O₁₃ (the Observer)
+
+---
+
+### Numeric Kaprekar-Form Law
+
+```math
+f(n) = desc(n) - asc(n)
+```
+
+Iterate until f⁽ᵏ⁺¹⁾(n) = f⁽ᵏ⁾(n)
+
+Then define:
+```math
+K^+ = (K, S)
+```
+Where:
+- K: Fixed point
+- S: Seated witness (Observer)
