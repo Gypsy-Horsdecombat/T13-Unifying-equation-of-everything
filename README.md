@@ -1,4 +1,4 @@
-# modeling the interface between intuition and articulation
+# Modeling the interface between intuition and articulation
 
 This repository explores a personal formalism for describing how non-linear intuition collapses into linear, communicable structures under constraint.
 
